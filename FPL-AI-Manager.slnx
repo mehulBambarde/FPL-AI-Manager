@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FPL.AI.Manager.Api/FPL.AI.Manager.Api.csproj" />
+    <Project Path="src/FPL.AI.Manager.Console/FPL.AI.Manager.Console.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,14 @@
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/bin/Debug/net10.0/FPL.AI.Manager.Console
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/bin/Debug/net10.0/FPL.AI.Manager.Console.deps.json
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/bin/Debug/net10.0/FPL.AI.Manager.Console.runtimeconfig.json
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/bin/Debug/net10.0/FPL.AI.Manager.Console.dll
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/bin/Debug/net10.0/FPL.AI.Manager.Console.pdb
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.AssemblyInfoInputs.cache
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.AssemblyInfo.cs
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.csproj.CoreCompileInputs.cache
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.dll
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/refint/FPL.AI.Manager.Console.dll
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.pdb
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/FPL.AI.Manager.Console.genruntimeconfig.cache
+/Users/mehulbambarde/FPL-AI-Manager/src/FPL.AI.Manager.Console/obj/Debug/net10.0/ref/FPL.AI.Manager.Console.dll
