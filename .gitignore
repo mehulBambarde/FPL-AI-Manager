@@ -1,0 +1,19 @@
+# Local settings (endpoints, keys) - never commit these
+appsettings*.json
+
+# .NET build output
+bin/
+obj/
+
+# Frontend
+node_modules/
+dist/
+
+# Stray scaffold at the repo root, not part of the solution
+/RAG/
+
+# IDE / OS
+.idea/**/workspace.xml
+.idea/**/jsonSchemas.xml
+.vs/
+.DS_Store
